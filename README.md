@@ -6,4 +6,4 @@ From 2017 and beyond, I have been in some sort of data-facing role, but now I'm 
 
 👋 Thanks for stopping by 
 
-![Leetcode Stats](<https://leetcode-status.vercel.app/api/card/natxc?theme=dark&hide_title=false&custom_title=Leetcode Stats>)
+![Leetcode Stats](https://leetcard.jacoblin.cool/natxc?ext=heatmap)
