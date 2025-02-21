@@ -5,3 +5,5 @@ I created a GitHub account in 2018 to post an issue about Spotify's API. Since t
 From 2017 and beyond, I have been in some sort of data-facing role, but now I'm wanting to break out of that and into software engineering. A lot of my projects are private so I'll try to add some public ones as I go. 🚀
 
 👋 Thanks for stopping by 
+
+![Leetcode Stats Stats](https://leetcode-status.vercel.app/api/card/natxc?theme=dark&hide_title=false&custom_title=Leetcode Stats)
